@@ -1,6 +1,6 @@
 # Reaction observable benchmarks for useful quantum computation in chemical reactivity
 
-This repository contains the Python code used to generate Figures 1–4 for the manuscript:
+This repository contains reproducible figure-generation python code and final figure files for the manuscript *Reaction observable benchmarks for useful quantum computation in chemical reactivity*.
 
 **Reaction observable benchmarks for useful quantum computation in chemical reactivity**
 
