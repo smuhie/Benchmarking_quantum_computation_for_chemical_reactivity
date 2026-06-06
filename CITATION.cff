@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this figure-generation code, please cite the associated manuscript."
+title: "Reaction observable benchmarks for useful quantum computation in chemical reactivity"
+version: "1.0.0"
+date-released: "2026-06-06"
+authors:
+  - name: "Manuscript authors"
+repository-code: "https://github.com/REPLACE_WITH_OWNER/Benchmarking_quantum_computation_for_chemical_reactivity"
+license: "MIT"
+abstract: "Python scripts and notebook used to generate Figures 1–4 for a manuscript on reaction-observable benchmarks for useful quantum computation in chemical reactivity."
